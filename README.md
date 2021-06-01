@@ -1,8 +1,8 @@
-# kriscoin2
+#kriscoin2
 A repo for practice
 
 Plan of the coin :- 
-
+----------------
 Name = KrisCoin 
 Symbol = KRIS
 Public Address = K
@@ -11,3 +11,5 @@ Mining Rewards = 100
 Pre-Mined Coins = 1%
 Halving Interval = 2 years
 Block Interval = 1 minute
+Algorithm = Scrypt Algorithm
+
