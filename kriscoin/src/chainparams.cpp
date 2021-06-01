@@ -122,8 +122,8 @@ public:
         // Note that of those with the service bits flag, most only support a subset of possible options
         vSeeds.push_back(CDNSSeedData("13.59.44.87", "13.59.44.87", true));
 //        vSeeds.push_back(CDNSSeedData("thrasher.io", "dnsseed.thrasher.io", true));
-//        vSeeds.push_back(CDNSSeedData("litecointools.com", "dnsseed.litecointools.com"));
-//        vSeeds.push_back(CDNSSeedData("litecoinpool.org", "dnsseed.litecoinpool.org"));
+//        vSeeds.push_back(CDNSSeedData("kriscointools.com", "dnsseed.kriscointools.com"));
+//        vSeeds.push_back(CDNSSeedData("kriscoinpool.org", "dnsseed.kriscoinpool.org"));
 //        vSeeds.push_back(CDNSSeedData("koin-project.com", "dnsseed.koin-project.com"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,45);
